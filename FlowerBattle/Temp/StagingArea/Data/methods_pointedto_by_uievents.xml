@@ -1,0 +1,12 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="mainProcess">
+			<method name="resetClick"/>
+			<method name="startClick"/>
+		</type>
+		<type fullname="ModeSelect">
+			<method name="ChildClick"/>
+			<method name="ParentClick"/>
+		</type>
+	</assembly>
+</linker>
